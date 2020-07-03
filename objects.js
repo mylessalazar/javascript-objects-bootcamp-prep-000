@@ -1,2 +1,1 @@
-
-var updatePlaylist = { playlist: 'myles tunes' artistName: 'John Coltrane', songTitle: 'Naima' };
+ updatePlaylist = {  artistName: 'John Coltrane', songTitle: 'Naima' };
