@@ -1,2 +1,2 @@
  var playlist = {  artistName: 'John Coltrane', songTitle: 'Naima' };
- var playlist = new Object(updatePlaylist;)
+ var playlist = new Object(updatePlaylist);
