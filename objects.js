@@ -1,7 +1,7 @@
 var playlist = new Object({potato: '1'});
 
 function updatePlaylist(playlist, artistName, songTitle) {
-  playlist[artisName] = songTitle
+  playlist[artistName] = songTitle
   return playlist
 }
 
