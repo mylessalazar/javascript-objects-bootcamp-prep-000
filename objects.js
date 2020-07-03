@@ -1,2 +1,2 @@
 const name = playlist
-var updatePlaylist = { artistName: 'John Coltrane', songTitle: 'Naima' };
+var updatePlaylist = { playlist: 'myles tunes' artistName: 'John Coltrane', songTitle: 'Naima' };
